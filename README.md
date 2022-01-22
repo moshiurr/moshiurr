@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2021 Goals: Do some good projects to build my resume
+- 🥅 2022 Early Goal: Learn Flutter
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love to play guitar 🎸
 
